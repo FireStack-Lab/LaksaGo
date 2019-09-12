@@ -2,6 +2,11 @@
 
 The golang version of zilliqa blockchain library
 
+
+*NOTE* 
+
+This repository is no longer maintained, please switch to the new github repository [https://github.com/Zilliqa/gozilliqa-sdk](https://github.com/Zilliqa/gozilliqa-sdk)！
+
 #### Requirements
 
 golang environment: 
